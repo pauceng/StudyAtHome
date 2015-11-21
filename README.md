@@ -1,5 +1,6 @@
-Evde kendini geliştirme adımları.
+Ev ortamında kendini adım adım geliştir.
 -------------------
+
 
 ### İngilizce
 	
