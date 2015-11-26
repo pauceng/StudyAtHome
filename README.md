@@ -38,7 +38,15 @@ Ev ortamında kendini adım adım geliştir.
 		* [azerdic](https://play.google.com/store/apps/details?id=com.amidos.android.azerdict)
 
 ### Her Alana yönelik kurslar
+
+* Genel
 	* [Coursera](https://www.coursera.org)
 	* [Udacity](https://www.udacity.com/courses/all)
-	* []()
-	* []()
+	* [Alison](https://alison.com/)
+	* [Harvard University](http://www.harvard.edu/about-harvard/frequently-asked-questions/faq-free-courses)
+	* [Stanford University](http://scpd.stanford.edu/university-online-courses.jsp?gclid=CKnw4Nuaj64CFSwDQAodlCz7gg)
+	* [Washington University](http://www.pce.uw.edu/online/free-courses/)
+	* [Colorada State University](http://www.online.colostate.edu/)
+	* [Khan Academy](https://tr.khanacademy.org/)
+	* [edx](https://www.edx.org/verified-certificate)
+	* [Open2Study](https://www.open2study.com/courses)
