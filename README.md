@@ -7,18 +7,16 @@ Ev ortamında kendini adım adım geliştir.
 * Video kaynaklar
 	* Türkçe
 		* [Özkan Çelen - 121 video](https://www.youtube.com/watch?v=RVfWnSL8JHs&list=PLfeJ3p63G20IilOBaFIM74outExcCmrOX) 
-	
 	* English
 		* [British Council](https://www.youtube.com/user/BritishCouncilLE/playlists)
 		* [Oxford Online English](https://www.youtube.com/user/oxfordonlineenglish/playlists)
-
 * Online ortamlar
 	* Türkçe
 		* [Duolingo](https://tr.duolingo.com/)
 		* [Talk English](http://tr.talkenglish.com/)
 		* [Bedava-İngilizce](http://www.bedava-ingilizce.com/)
 		* [ingilizcevideo.com](http://www.ingilizcevideo.com/)
-	
+		* [YDYO Çalışma siteleri](http://www.pau.edu.tr/ydyo/tr/sayfa/ingilizce-calisma-siteleri)
 	* English
 		* [British Council](http://learnenglish.britishcouncil.org/en)
 		* [english-online.org](http://www.english-online.org.uk/)
@@ -27,12 +25,20 @@ Ev ortamında kendini adım adım geliştir.
 		* [Esol Courses](http://www.esolcourses.com/)
 
 * Sözlük
+	* [azerdic](https://azerdict.com/)
+	* [Tureng](http://tureng.com/tr/turkce-ingilizce)
+	* [YDYO - kaynak](http://www.pau.edu.tr/ydyo/tr/sayfa/sozluk)
 
 * Mobil ortamlar
 	* ios (apple)
 		* [duolingo](https://itunes.apple.com/tr/app/duolingo-learn-languages-for/id570060128?mt=8)
-	
+		* [azerdic](https://itunes.apple.com/us/app/azerdict/id467051525)
 	* android
 		* [duolingo](https://play.google.com/store/apps/details?id=com.duolingo&hl=tr)
+		* [azerdic](https://play.google.com/store/apps/details?id=com.amidos.android.azerdict)
 
 ### Her Alana yönelik kurslar
+	* [Coursera](https://www.coursera.org)
+	* [Udacity](https://www.udacity.com/courses/all)
+	* []()
+	* []()
