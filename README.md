@@ -50,3 +50,6 @@ Ev ortamında kendini adım adım geliştir.
 	* [Khan Academy](https://tr.khanacademy.org/)
 	* [edx](https://www.edx.org/verified-certificate)
 	* [Open2Study](https://www.open2study.com/courses)
+
+* Motivasyon 
+	* [Be Remembered](https://www.youtube.com/watch?v=Cz3q1R0oHmE)
