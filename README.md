@@ -51,7 +51,7 @@ Ev ortamında kendini adım adım geliştir.
 	* [edx](https://www.edx.org/verified-certificate)
 	* [Open2Study](https://www.open2study.com/courses)
 
-* Motivasyon 
-	* [Be Remembered](https://www.youtube.com/watch?v=Cz3q1R0oHmE)
-	* [Dil öğrenme sürecindeki püf noktalar](https://www.youtube.com/watch?v=5J95U5DxVx4)
-	* [İngilizce konuşma pratiği nasıl geliştirilir?](https://www.youtube.com/watch?v=6dnMHvlFg3g)
+### Motivasyon 
+* [Be Remembered](https://www.youtube.com/watch?v=Cz3q1R0oHmE)
+* [Dil öğrenme sürecindeki püf noktalar](https://www.youtube.com/watch?v=5J95U5DxVx4)
+* [İngilizce konuşma pratiği nasıl geliştirilir?](https://www.youtube.com/watch?v=6dnMHvlFg3g)
