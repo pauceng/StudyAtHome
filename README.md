@@ -28,14 +28,17 @@ Ev ortamında kendini adım adım geliştir.
 	* [azerdic](https://azerdict.com/)
 	* [Tureng](http://tureng.com/tr/turkce-ingilizce)
 	* [YDYO - kaynak](http://www.pau.edu.tr/ydyo/tr/sayfa/sozluk)
+	* [Sesli Sözlük](http://www.seslisozluk.net/c%C3%BCmle-%C3%A7eviri/)
 
 * Mobil ortamlar
 	* ios (apple)
 		* [duolingo](https://itunes.apple.com/tr/app/duolingo-learn-languages-for/id570060128?mt=8)
 		* [azerdic](https://itunes.apple.com/us/app/azerdict/id467051525)
+		* [seslisözlük](https://itunes.apple.com/us/app/seslisozluk-dictionary-turkce/id346508331?mt=8)
 	* android
 		* [duolingo](https://play.google.com/store/apps/details?id=com.duolingo&hl=tr)
 		* [azerdic](https://play.google.com/store/apps/details?id=com.amidos.android.azerdict)
+		* [seslisözlük](https://play.google.com/store/apps/details?id=com.seslisozluk)
 
 ### Her Alana yönelik kurslar
 
@@ -53,5 +56,6 @@ Ev ortamında kendini adım adım geliştir.
 
 ### Motivasyon 
 * [Be Remembered](https://www.youtube.com/watch?v=Cz3q1R0oHmE)
+* [NEVER GIVE UP!](https://www.youtube.com/watch?v=LnzUjOy7WlQ)
 * [Dil öğrenme sürecindeki püf noktalar](https://www.youtube.com/watch?v=5J95U5DxVx4)
 * [İngilizce konuşma pratiği nasıl geliştirilir?](https://www.youtube.com/watch?v=6dnMHvlFg3g)
